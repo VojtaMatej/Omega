@@ -1,1 +1,4 @@
 # Omega
+
+
+Můj omega projekt 
